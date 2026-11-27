@@ -1,0 +1,19 @@
+[general]
+name=Delimitacao APPs MG (GitHub)
+qgisMinimumVersion=3.0
+description=Plugin para delimitação automática de Áreas de Preservação Permanente (APPs) conforme a Lei 12.651/2012 (Código Florestal), para municípios de Minas Gerais.
+version=1.0
+author=SGORL
+email=contato@sgorl.com
+about=Este plugin recorta a hidrografia categorizada para um município selecionado e gera automaticamente os buffers de APP para rios e nascentes, conforme os limites estabelecidos pelo Código Florestal Brasileiro (Lei 12.651/2012).
+tracker=
+repository=
+hasProcessingProvider=no
+changelog=
+    1.0 - Versão inicial
+tags=APP, preservação, hidrografia, buffer, Minas Gerais, Código Florestal
+homepage=
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False
